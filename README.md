@@ -676,7 +676,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *BS Artificial Intelligence | Air University*  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamran-ahmed) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kamran-ahmed)
 
-**Air University - Software Engineering Department**  
+**Air University - Artificial Intelligence Department**  
 *Advancing practical software solutions through academic excellence*
 
 ---
