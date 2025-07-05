@@ -7,8 +7,6 @@
 
 > **A comprehensive desktop application for efficient employee data management**
 
-![Employee Management System Interface](https://via.placeholder.com/800x400?text=Employee+Management+System+Interface)
-
 ## Overview
 
 The Employee Management System is a robust desktop application built with C# Windows Forms and MySQL database, designed to streamline human resource operations for small to medium-sized organizations. This solution provides an intuitive interface for managing employee records, departmental structures, and organizational hierarchies.
