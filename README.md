@@ -665,7 +665,7 @@ We welcome contributions to improve the Employee Management System. Please follo
 
 ### Getting Help
 - **Issues**: Report bugs and request features on GitHub
-- **Email Support**: Contact support at [support@yourcompany.com](mailto:support@yourcompany.com)
+- **Email Support**: Contact support at [kamranahmed7602@gmail.com](mailto:kamranahmed7602@gmail.com)
 - **Community Forum**: Join our community discussions
 
 ## License
