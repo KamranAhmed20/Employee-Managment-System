@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp2</RootNamespace>
+    <AssemblyName>WindowsFormsApp2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\db project\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>9070CF3E3ED42D0C8D88B6612D6B200B923668DB</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>WindowsFormsApp2_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.Cryptography.2.2.1\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.25.1.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.25.1\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.3.5.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.1.3.5\lib\net462\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.3.5.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.Streams.1.3.5\lib\net462\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.8.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Hash.xxHash.1.0.8\lib\net462\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.4.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.4.0\lib\net462\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.ConfigurationManager, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Configuration.ConfigurationManager.4.4.1\lib\net461\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.7.0.2\lib\net462\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Pipelines, Version=5.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Pipelines.5.0.2\lib\net461\System.IO.Pipelines.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZstdSharp, Version=0.7.1.0, Culture=neutral, PublicKeyToken=8d151af33a4ad5cf, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZstdSharp.Port.0.7.1\lib\net461\ZstdSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CloseUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CloseUserControl.Designer.cs">
+      <DependentUpon>CloseUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer_DBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Customer_DBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteEmployee.Designer.cs">
+      <DependentUpon>DeleteEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpDashboardForm.Designer.cs">
+      <DependentUpon>EmpDashboardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HRAttendForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HRAttendForm.Designer.cs">
+      <DependentUpon>HRAttendForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HRDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HRDashboardForm.Designer.cs">
+      <DependentUpon>HRDashboardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HRDeptform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HRDeptform.Designer.cs">
+      <DependentUpon>HRDeptform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HREmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HREmployeeForm.Designer.cs">
+      <DependentUpon>HREmployeeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HRIssued_equip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HRIssued_equip.Designer.cs">
+      <DependentUpon>HRIssued_equip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HRIssues.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HRIssues.Designer.cs">
+      <DependentUpon>HRIssues.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HRProjectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HRProjectForm.Designer.cs">
+      <DependentUpon>HRProjectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HRTeamsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HRTeamsForm.Designer.cs">
+      <DependentUpon>HRTeamsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm1.Designer.cs">
+      <DependentUpon>LoginForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm2.Designer.cs">
+      <DependentUpon>LoginForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpAttdForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpAttdForm.Designer.cs">
+      <DependentUpon>EmpAttdForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpProjForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpProjForm.Designer.cs">
+      <DependentUpon>EmpProjForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpTeamForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpTeamForm.Designer.cs">
+      <DependentUpon>EmpTeamForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpSprintForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpSprintForm.Designer.cs">
+      <DependentUpon>EmpSprintForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpEquipmentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpEquipmentsForm.Designer.cs">
+      <DependentUpon>EmpEquipmentsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpPersonalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpPersonalForm.Designer.cs">
+      <DependentUpon>EmpPersonalForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogoutUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LogoutUserControl.Designer.cs">
+      <DependentUpon>LogoutUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CloseUserControl.resx">
+      <DependentUpon>CloseUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteEmployee.resx">
+      <DependentUpon>DeleteEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpDashboardForm.resx">
+      <DependentUpon>EmpDashboardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HRAttendForm.resx">
+      <DependentUpon>HRAttendForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HRDashboardForm.resx">
+      <DependentUpon>HRDashboardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HRDeptform.resx">
+      <DependentUpon>HRDeptform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HREmployeeForm.resx">
+      <DependentUpon>HREmployeeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HRIssued_equip.resx">
+      <DependentUpon>HRIssued_equip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HRIssues.resx">
+      <DependentUpon>HRIssues.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HRProjectForm.resx">
+      <DependentUpon>HRProjectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HRTeamsForm.resx">
+      <DependentUpon>HRTeamsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm1.resx">
+      <DependentUpon>LoginForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm2.resx">
+      <DependentUpon>LoginForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpAttdForm.resx">
+      <DependentUpon>EmpAttdForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpProjForm.resx">
+      <DependentUpon>EmpProjForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpTeamForm.resx">
+      <DependentUpon>EmpTeamForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpSprintForm.resx">
+      <DependentUpon>EmpSprintForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpEquipmentsForm.resx">
+      <DependentUpon>EmpEquipmentsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpPersonalForm.resx">
+      <DependentUpon>EmpPersonalForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogoutUserControl.resx">
+      <DependentUpon>LogoutUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Customer_DBDataSet.xsc">
+      <DependentUpon>Customer_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Customer_DBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Customer_DBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Customer_DBDataSet.xss">
+      <DependentUpon>Customer_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="WindowsFormsApp2_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Customer DB.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Customer DB_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Customer DB.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

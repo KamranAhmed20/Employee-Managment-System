@@ -1,0 +1,334 @@
+C:\Users\231232\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\231232\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\231232\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\231232\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\231232\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\231232\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\231232\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\231232\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\231232\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\231232\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Kamran\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Kamran\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Kamran\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Kamran\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Kamran\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Kamran\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Kamran\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Kamran\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Kamran\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Kamran\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Kamran\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\darkl\Downloads\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\darkl\Downloads\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\darkl\Downloads\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\darkl\Downloads\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\darkl\Downloads\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\darkl\Downloads\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\darkl\Downloads\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\darkl\Downloads\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\darkl\Downloads\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\darkl\Downloads\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\darkl\Downloads\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\darkl\Downloads\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\darkl\Downloads\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\Customer DB.mdf
+C:\Users\darkl\Downloads\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\Customer DB_log.ldf
+C:\Users\darkl\Downloads\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\darkl\Downloads\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\darkl\Downloads\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\darkl\Downloads\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form7.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\Customer DB.mdf
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\Customer DB_log.ldf
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginForm1.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginForm2.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpProjForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpTeamForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpSprintForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpEquipmentsForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpPersonalForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\Customer DB.mdf
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\Customer DB_log.ldf
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRAttendForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRDashboardFrom.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRDeptform.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HREmployeeForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRIssued_equip.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRIssues.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRProjectForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRTeamsForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginForm1.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginForm2.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpProjForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpTeamForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpSprintForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpEquipmentsForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpPersonalForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpDashboardForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRAttendForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRDashboardForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRDeptform.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HREmployeeForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRIssued_equip.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRIssues.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRProjectForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRTeamsForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpAttendanceForm.resources
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\Customer DB.mdf
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\Customer DB_log.ldf
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpDashboardForm.resources
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRAttendForm.resources
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRDashboardForm.resources
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRDeptform.resources
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HREmployeeForm.resources
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRIssued_equip.resources
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRIssues.resources
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRProjectForm.resources
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRTeamsForm.resources
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginForm1.resources
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginForm2.resources
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpAttendanceForm.resources
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpProjForm.resources
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpTeamForm.resources
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpSprintForm.resources
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpEquipmentsForm.resources
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpPersonalForm.resources
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\darkl\OneDrive\Desktop\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\Customer DB.mdf
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\Customer DB_log.ldf
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpDashboardForm.resources
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRAttendForm.resources
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRDashboardForm.resources
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRDeptform.resources
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HREmployeeForm.resources
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRIssued_equip.resources
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRIssues.resources
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRProjectForm.resources
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRTeamsForm.resources
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginForm1.resources
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginForm2.resources
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpAttendanceForm.resources
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpProjForm.resources
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpTeamForm.resources
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpSprintForm.resources
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpEquipmentsForm.resources
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpPersonalForm.resources
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Software Projects\Visual Studio IDE\Projects\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\Customer DB.mdf
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\Customer DB_log.ldf
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpDashboardForm.resources
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRAttendForm.resources
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRDashboardForm.resources
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRDeptform.resources
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HREmployeeForm.resources
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRIssued_equip.resources
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRIssues.resources
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRProjectForm.resources
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRTeamsForm.resources
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginForm1.resources
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginForm2.resources
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpAttendanceForm.resources
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpProjForm.resources
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpTeamForm.resources
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpSprintForm.resources
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpEquipmentsForm.resources
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpPersonalForm.resources
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\HP\Desktop\112233\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\Customer DB.mdf
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\Customer DB_log.ldf
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpDashboardForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRAttendForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRDashboardForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRDeptform.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HREmployeeForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRIssued_equip.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRIssues.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRProjectForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRTeamsForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginForm1.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginForm2.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpAttendanceForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpProjForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpTeamForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpSprintForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpEquipmentsForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpPersonalForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Latest\Latest\DB Project WFA Try 02\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\Customer DB.mdf
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\Customer DB_log.ldf
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\Google.Protobuf.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\K4os.Compression.LZ4.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\K4os.Hash.xxHash.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\System.IO.Pipelines.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\System.Memory.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\ZstdSharp.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\Google.Protobuf.pdb
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\Google.Protobuf.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\K4os.Compression.LZ4.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\K4os.Hash.xxHash.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\System.IO.Pipelines.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\System.Memory.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpDashboardForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRAttendForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRDashboardForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRDeptform.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HREmployeeForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRIssued_equip.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRIssues.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRProjectForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRTeamsForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginForm1.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginForm2.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpAttendanceForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpProjForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpTeamForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpSprintForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpEquipmentsForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpPersonalForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\Customer DB.mdf
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\Customer DB_log.ldf
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\Google.Protobuf.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\K4os.Compression.LZ4.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\K4os.Hash.xxHash.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\System.IO.Pipelines.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\System.Memory.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\ZstdSharp.dll
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\Google.Protobuf.pdb
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\Google.Protobuf.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\K4os.Compression.LZ4.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\K4os.Hash.xxHash.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\System.IO.Pipelines.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\System.Memory.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpDashboardForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRAttendForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRDashboardForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRDeptform.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HREmployeeForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRIssued_equip.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRIssues.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRProjectForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HRTeamsForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginForm1.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LoginForm2.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpAttendanceForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpProjForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpTeamForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpSprintForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpEquipmentsForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.EmpPersonalForm.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Moeez\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LogoutUserControl.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LogoutUserControl.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CloseUserControl.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DeleteEmployee.resources
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.manifest
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.application
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.manifest
+D:\Air Uni Notes\Semester 2\Database Systems (DB)\DB Project\Front End Data (C#)\DB Project C# Saved Files\By Me\Super Latest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.application

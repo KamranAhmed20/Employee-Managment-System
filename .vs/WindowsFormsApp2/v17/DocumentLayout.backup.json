@@ -1,0 +1,636 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\air uni notes\\semester 2\\database systems (db)\\db project\\front end data (c#)\\db project c# saved files\\by me\\super latest\\windowsformsapp2\\empteamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\empteamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\empteamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\empteamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\loginform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\loginform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\deleteemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\deleteemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\deleteemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\deleteemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\hrdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\hrdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\hrdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\hrdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\loginform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\loginform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\logoutusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\logoutusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\hrteamsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\hrteamsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\hrprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\hrprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\hrattendform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\hrattendform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\hrdeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\hrdeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\hrdeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\hrdeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\hrprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\hrprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\hrissued_equip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\hrissued_equip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\hremployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\hremployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\hremployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\hremployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\hrissued_equip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\hrissued_equip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\hrissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\hrissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\hrattendform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\hrattendform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\empequipmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\empequipmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\hrissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\hrissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\hrteamsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\hrteamsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\empequipmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\empequipmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\empprojform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\empprojform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\empprojform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\empprojform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\emppersonalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\emppersonalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\empattdform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\empattdform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\empattdform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\empattdform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\empsprintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\empsprintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\empsprintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\empsprintform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\loginform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\loginform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\empdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\empdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\loginform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\loginform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\emppersonalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\emppersonalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\empdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\empdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\windowsformsapp2\\closeusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC40A7C2-B625-491D-85AC-F919E6B1CBB6}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\closeusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteEmployee.cs",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\DeleteEmployee.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\DeleteEmployee.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\DeleteEmployee.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\DeleteEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T05:48:17.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteEmployee.cs [Design]",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\DeleteEmployee.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\DeleteEmployee.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\DeleteEmployee.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\DeleteEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T05:45:45.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EmpDashboardForm.cs",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpDashboardForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\EmpDashboardForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpDashboardForm.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\EmpDashboardForm.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwFMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:39:47.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm1.cs [Design]",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\LoginForm1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\LoginForm1.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\LoginForm1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\LoginForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:47:52.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginForm1.cs",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\LoginForm1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\LoginForm1.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\LoginForm1.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\LoginForm1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:30:41.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpTeamForm.cs",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpTeamForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\EmpTeamForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpTeamForm.cs*",
+              "RelativeToolTip": "WindowsFormsApp2\\EmpTeamForm.cs*",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAIgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:06:18.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HRDashboardForm.cs",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRDashboardForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\HRDashboardForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRDashboardForm.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\HRDashboardForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T10:51:49.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm2.cs [Design]",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\LoginForm2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\LoginForm2.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\LoginForm2.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\LoginForm2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:26:25.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginForm2.cs",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\LoginForm2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\LoginForm2.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\LoginForm2.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\LoginForm2.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAD4v3wAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:26:31.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HRProjectForm.cs [Design]",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRProjectForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\HRProjectForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRProjectForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\HRProjectForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:15:48.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmpSprintForm.cs",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpSprintForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\EmpSprintForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpSprintForm.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\EmpSprintForm.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwE8AAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:33:47.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmpProjForm.cs",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpProjForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\EmpProjForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpProjForm.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\EmpProjForm.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwE4AAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:33:39.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogoutUserControl.cs",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\LogoutUserControl.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\LogoutUserControl.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\LogoutUserControl.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\LogoutUserControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:45:13.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpTeamForm.cs [Design]",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpTeamForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\EmpTeamForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpTeamForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\EmpTeamForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:05:06.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CloseUserControl.cs [Design]",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\CloseUserControl.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\CloseUserControl.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\CloseUserControl.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\CloseUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:43:23.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EmpDashboardForm.cs [Design]",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpDashboardForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\EmpDashboardForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpDashboardForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\EmpDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:13:39.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EmpAttdForm.cs [Design]",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpAttdForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\EmpAttdForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpAttdForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\EmpAttdForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:44:42.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmpEquipmentsForm.cs [Design]",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpEquipmentsForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\EmpEquipmentsForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpEquipmentsForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\EmpEquipmentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:43:19.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmpAttdForm.cs",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpAttdForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\EmpAttdForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpAttdForm.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\EmpAttdForm.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwv1AAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:05:52.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmpSprintForm.cs [Design]",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpSprintForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\EmpSprintForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpSprintForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\EmpSprintForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:44:35.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmpPersonalForm.cs [Design]",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpPersonalForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\EmpPersonalForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpPersonalForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\EmpPersonalForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:58:13.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EmpPersonalForm.cs",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpPersonalForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\EmpPersonalForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpPersonalForm.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\EmpPersonalForm.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAA7wHMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:54:41.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmpProjForm.cs [Design]",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpProjForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\EmpProjForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpProjForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\EmpProjForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:44:22.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HRDashboardForm.cs [Design]",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRDashboardForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\HRDashboardForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRDashboardForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\HRDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:15:01.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HRTeamsForm.cs [Design]",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRTeamsForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\HRTeamsForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRTeamsForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\HRTeamsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:15:55.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HRAttendForm.cs [Design]",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRAttendForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\HRAttendForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRAttendForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\HRAttendForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:17:47.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HRIssued_equip.cs [Design]",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRIssued_equip.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\HRIssued_equip.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRIssued_equip.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\HRIssued_equip.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:15:44.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HRDeptform.cs [Design]",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRDeptform.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\HRDeptform.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRDeptform.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\HRDeptform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:15:06.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HRProjectForm.cs",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRProjectForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\HRProjectForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRProjectForm.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\HRProjectForm.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAcwJcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:35:31.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HRIssues.cs [Design]",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRIssues.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\HRIssues.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRIssues.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\HRIssues.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:15:46.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmpEquipmentsForm.cs",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpEquipmentsForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\EmpEquipmentsForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\EmpEquipmentsForm.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\EmpEquipmentsForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:06:06.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HRIssues.cs",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRIssues.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\HRIssues.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRIssues.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\HRIssues.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAqwMQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:41:50.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HREmployeeForm.cs [Design]",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HREmployeeForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\HREmployeeForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HREmployeeForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\HREmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:15:41.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HRAttendForm.cs",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRAttendForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\HRAttendForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRAttendForm.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\HRAttendForm.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAMEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:34:05.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HRDeptform.cs",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRDeptform.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\HRDeptform.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRDeptform.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\HRDeptform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:40:32.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HRIssued_equip.cs",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRIssued_equip.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\HRIssued_equip.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRIssued_equip.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\HRIssued_equip.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAMUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:38:01.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HRTeamsForm.cs",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRTeamsForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\HRTeamsForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HRTeamsForm.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\HRTeamsForm.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAArwKAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:34:50.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HREmployeeForm.cs",
+              "DocumentMoniker": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HREmployeeForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\HREmployeeForm.cs",
+              "ToolTip": "D:\\Air Uni Notes\\Semester 2\\Database Systems (DB)\\DB Project\\Front End Data (C#)\\DB Project C# Saved Files\\By Me\\Super Latest\\WindowsFormsApp2\\HREmployeeForm.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\HREmployeeForm.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAswLAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:33:26.558Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 170,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
